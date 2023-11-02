@@ -23,7 +23,9 @@ Today, I practiced building out a professional-style wireframe document from a p
 
 ### Reflections and Comments
 
-How did this go, overall? This took me a really long time. I had to spend a lot of time reading, learning, and troubleshooting. I think the most difficult aspect was making sure the margins met the 30px gutter criteria. I also tried to use semantic attributes for my style sheet and got confused so many times. But I managed. It's much easier to make everything a class and organize it like that. 
+How did this go, overall? This took me a really long time. I had to spend a lot of time reading, learning, and troubleshooting. I think the most difficult aspect was making sure the margins met the 30px gutter criteria. I also tried to use semantic attributes for my style sheet and got confused so many times. But I managed. It's much easier to make everything a class and organize it like that.
+
+I also didn't ACP as much as I should have. I was so focused that I just didn't. I still have another assignment due for the evening and I'll be sure to ACP more often with that one. 
 
 What observations or questions do you have about what you’ve learned so far?
 Does this get any easier? Lol that's really rhetorical. I know it takes time and practice. But I definitely underestimated how technical this practice is. 
