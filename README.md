@@ -28,4 +28,4 @@ How did this go, overall? This took me a really long time. I had to spend a lot 
 What observations or questions do you have about what you’ve learned so far?
 Does this get any easier? Lol that's really rhetorical. I know it takes time and practice. But I definitely underestimated how technical this practice is. 
 
-How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment? I thought this assignment would be quick. But it literally took me 6 hours. Those are the breaks. It's kind of embarassing. But I had to read to understand a lot of material. I included those links in this readme. 
+How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment? I thought this assignment would be quick. But it literally took me 6 hours. Those are the breaks. It's kind of embarrassing. But I had to read to understand a lot of material. I included those links in this readme. 
